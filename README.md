@@ -1,4 +1,9 @@
 Hi, I’m @YYKlimenko <br>
 29 y.o., from Russia, Omsk <br>
-I'm Python Backend Developer <br>
-Stack: Python, Django, DRF, fastapi, SQL <br>
+I'm a Backend Developer <br>
+Stack:<br><br> 
+Python (Django, DRF, FastAPI, SQLAlchemy, Tortoise ORM),<br>
+Java (Spring, Sprig Boot, Spring Secuirity, JDBC, Hibernate),<br>
+SQL, Docker, Jenkins <br><br>
+
+Questions & Offers: YYKlimenko@gmail.com
