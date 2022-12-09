@@ -1,4 +1,4 @@
-Hi, I’m @YYKlimenko <br>
+Hi, I’m Yuri Klimenko (@YYKlimenko) <br>
 29 y.o., from Russia, Omsk <br>
 I'm a Backend Developer <br><br>
 Stack:<br>
