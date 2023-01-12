@@ -6,4 +6,6 @@ Python (Django, DRF, FastAPI, SQLAlchemy, Tortoise ORM),<br>
 Java (Spring, Sprig Boot, Spring Secuirity, JDBC, Hibernate),<br>
 SQL, Docker, Jenkins <br><br>
 
-Questions & Offers: YYKlimenko@gmail.com
+Questions & Offers: 
+  email: YYKlimenko@gmail.com
+  telegram: @yyklim 
