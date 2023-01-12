@@ -7,5 +7,5 @@ Java (Spring, Sprig Boot, Spring Secuirity, JDBC, Hibernate),<br>
 SQL, Docker, Jenkins <br><br>
 
 Questions & Offers: <br> 
-  email: YYKlimenko@gmail.com
+  email: YYKlimenko@gmail.com <br>
   telegram: @yyklim 
