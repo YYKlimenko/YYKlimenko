@@ -1,10 +1,11 @@
 Hi, I’m Yuri Klimenko (@YYKlimenko) <br>
 29 y.o., from Russia, Omsk <br>
-I'm a Backend Developer <br><br>
-Stack:<br>
-Python (Django, DRF, FastAPI, SQLAlchemy, Tortoise ORM),<br>
-Java (Spring, Sprig Boot, Spring Secuirity, JDBC, Hibernate),<br>
-SQL, Docker, Jenkins <br><br>
+I'm a Python Backend Developer <br><br>
+Stack & Experience:<br>
+Django, DRF, FastAPI, Celery,<br>
+SQLAlchemy, Tortoise ORM,<br>
+SQL, <br> 
+Nginx, Docker, Jenkins, GIT, Linux. <br><br>
 
 Questions & Offers: <br> 
   email: YYKlimenko@gmail.com <br>
