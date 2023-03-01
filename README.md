@@ -9,4 +9,4 @@ Nginx, Docker, Jenkins, GIT, Linux. <br><br>
 
 Questions & Offers: <br> 
   email: YYKlimenko@gmail.com <br>
-  telegram: @yyklim 
+  telegram: @y_klimenko 
