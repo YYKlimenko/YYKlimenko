@@ -1,5 +1,5 @@
 Hi, I’m Yuri Klimenko (@YYKlimenko) <br>
-29 y.o., from Russia, Omsk <br>
+30 y.o., from Russia, Omsk <br>
 I'm a Python Backend Developer <br><br>
 Stack & Experience:<br>
 Django, DRF, FastAPI, Celery,<br>
