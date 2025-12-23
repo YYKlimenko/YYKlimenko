@@ -1,6 +1,6 @@
 Hi, I’m Yuri Klimenko (@YYKlimenko) <br>
 32 y.o.<br>
-I'm a Python Backend Developer <br><br>
+Python Backend Developer <br><br>
 Stack & Experience:<br>
 <b>Web Frameworkds</b>: Django, DRF, FastAPI, Flask,<br>
 <b>Background Tasks:</b> Celery, Taskiq <br>
